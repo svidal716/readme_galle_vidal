@@ -1,4 +1,4 @@
-"Nombre WED"
+"Nombre WEB"
 
 * Introduction
 
