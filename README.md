@@ -1,6 +1,6 @@
-# readme_galle_vidal
+"Nombre WED"
 
-*Introduction
+* Introduction
 
 El desarrollo de la web que hicimos esta basada en mantener un historial de las mascotas que son atendidas en las diferentes veterinarias, poder consultar todos los datos y el historial medico.
 
