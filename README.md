@@ -70,7 +70,11 @@ Descripcion de las sessiones:
     - Agregar Historia clinica: En esta session podemos asociar atravez del campo nombre de mascota una historia clinica a la respectiva mascota. En el campo veterinario  se debe seleccionar el veterinario agregado previamente.
     - Buscar Historia clinica: en esta session se pueden ver un resumen de las hostoria clinicas de las mascotas. Para cada ver la historia clinica completa se debe hacer click en el boton de la historia clinica. Tambien es posible eliminar la historia clinica.
     
-  
+- Perfil: En esta session es posible editar el perfil del usuario logueado.
+
+- Inbox:
+  - Ver mensajes: en esta session podemos ver todos los mensajes que recibio el usuario logueado y responderlos.
+  - Enviar mensaje: en esta session se puede enviar un mensaje a los usuarios registrados. 
 
 
 
