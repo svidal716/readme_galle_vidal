@@ -1,6 +1,7 @@
 <h1 align="center"> Doctor Vet </h1>
 
-![Esta es una imagen](https://i2.wp.com/zoovetesmipasion.com/wp-content/uploads/2017/10/veterinario-.jpg?fit=712%2C350)
+![Esta es una imagen](https://user-images.githubusercontent.com/63665948/194942261-74a0897a-fd8d-4d80-9769-537eb5f5e519.png)
+
 
 * Descripcion del Proyecto
   
