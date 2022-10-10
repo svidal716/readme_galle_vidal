@@ -9,11 +9,21 @@
 
  * Requerimientos
  
-  Definimos los siguientes modelos para poder obtener el historial de cada mascota:
-  - datosVeterinarios
-  - datosPropietario
-  - datosMascota
-  - historiaClinica
+  Definimos 2 App para desarrollar el proyecto:
+  - AppVet
+  - Mensajeria
+  
+  Se definieron los siguientes modelos en cada App:
+  - AppVet
+    - DatosVeterinarios
+    - DatosPropietario
+    - DatosMascota
+    - HistoriaClinica
+    - Avatar
+  
+  - Mensajeria
+    - Mensajeria
+    
   
 ## Autores
 
