@@ -85,8 +85,8 @@ Descripcion de las sessiones:
 
 # Autores:
 
-# - Maximiliano Gallegillo 
-# - Santiago vidal
+### - Maximiliano Gallegillo 
+### - Santiago vidal
 
 La App fue lleva a cabo en conjunto en donde ambos crearon models, formularios, vistas, editamos los temples de HTML, etc.
 
