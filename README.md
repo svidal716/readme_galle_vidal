@@ -30,6 +30,12 @@
     Dentro la pagina principar encontramos 3 secciones, que contienen informacion general sobre la veterinaria ( informacion que puede ser modificaca por el cliente a su criterio ). Estas secciones son : Inicio, sobre nosotros y servicios.
     
     ![image](https://user-images.githubusercontent.com/63665948/194943652-4416d2d0-fbd3-4f05-b24a-1efbefef546b.png)
+    
+   La pagina principal cuenta con un link de "iniciar session" que nos lleva a la pagina de inicio de la App.
+   
+   ![image](https://user-images.githubusercontent.com/63665948/194944009-88ced33c-662f-40c0-9c26-b164ae5839c1.png)
+
+   
 
     
   
