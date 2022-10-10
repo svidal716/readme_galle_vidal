@@ -74,7 +74,13 @@ Descripcion de las sessiones:
 
 - Inbox:
   - Ver mensajes: en esta session podemos ver todos los mensajes que recibio el usuario logueado y responderlos.
-  - Enviar mensaje: en esta session se puede enviar un mensaje a los usuarios registrados. 
+  - Enviar mensaje: en esta session se puede enviar un mensaje a los usuarios registrados.
+
+- Creadores: En esta session hay una breve descripcion de los creadores de la App.
+
+- Admin: esta session nos lleva al portal de "Admin" de Django.
+
+
 
 
 
