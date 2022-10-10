@@ -23,6 +23,16 @@
   
   - Mensajeria
     - Mensajeria
+  
+  Funcionalida de la App
+  
+  - Pagina principal: http://127.0.0.1:8000
+    Dentro la pagina principar encontramos 3 secciones, que contienen informacion general sobre la veterinaria ( informacion que puede ser modificaca por el cliente a su criterio ). Estas secciones son : Inicio, sobre nosotros y servicios.
+    
+    ![image](https://user-images.githubusercontent.com/63665948/194943652-4416d2d0-fbd3-4f05-b24a-1efbefef546b.png)
+
+    
+  
     
   
 ## Autores
