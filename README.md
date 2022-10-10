@@ -52,6 +52,25 @@ Una vez iniciada la session (admin/admin), tenemos la posibilidad de navegar por
 
 ![image](https://user-images.githubusercontent.com/63665948/194945346-7944d917-e7d5-492d-9a54-cfe49de52140.png)
 
+Descripcion de las sessiones:
+
+- Veterinarios:
+  Agregar Veterinarios: En esta session podemos agregar un nuevo veterinario.
+  Buscar Veterinarios: en esta session se puede buscar un veterinario por nombre o listar todos los veterinarios cargados. Para cada veterinario es posible editar o eliminar el perfil.
+  
+  - Cliente:
+    Agregar cliente: En esta session podemos agregar un nuevo Cliente.
+    Buscar Cliente: en esta session se puede buscar un cliente por nombre o listar todos los clientes cargados. Para cada cliente es posible editar o eliminar el perfil.
+
+- Mascotas:
+    Agregar mascota: En esta session podemos agregar una nueva mascota. En el campo dueño de mascota se debe seleccionar el cliente agregado previamente.
+    Buscar mascota: en esta session se puede buscar una mascota por nombre o listar todos las mascotas cargadas. Para cada mascota es posible editar o eliminar el perfil.
+    
+- Historia Cinica:
+    Agregar Historia clinica: En esta session podemos asociar atravez del campo nombre de mascota una historia clinica a la respectiva mascota. En el campo veterinario  se debe seleccionar el veterinario agregado previamente.
+    Buscar Historia clinica: en esta session se pueden ver un resumen de las hostoria clinicas de las mascotas. Para cada ver la historia clinica completa se debe hacer click en el boton de la historia clinica. Tambien es posible eliminar la historia clinica.
+    
+  
 
 
 
