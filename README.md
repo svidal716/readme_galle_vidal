@@ -36,6 +36,25 @@
    ![image](https://user-images.githubusercontent.com/63665948/194944009-88ced33c-662f-40c0-9c26-b164ae5839c1.png)
 
    
+En esta pagina es posible iniciar session con un usuario registrado, registrar uno nuevo o volver a la pagina inicial.
+
+Una vez iniciada la session (admin/admin), tenemos la posibilidad de navegar por las distintas paginas de la App:
+
+ - Veterinarios
+ - Historia Cinica
+ - Cliente
+ - Mascotas
+ - Perfil
+ - Inbox
+ - Creadores
+ - Admin
+ 
+
+![image](https://user-images.githubusercontent.com/63665948/194945346-7944d917-e7d5-492d-9a54-cfe49de52140.png)
+
+
+
+
 
     
   
