@@ -83,10 +83,10 @@ Descripcion de las sessiones:
 - Dentro del menu desplegable que lleva el nombre del usuario logueado se puede editar el perfil, agregar el avatar y deslguearse del sistema.
 
 
-##Autores:
+#Autores:
 
-#- Maximiliano Gallegillo 
-#- Santiago vidal
+- Maximiliano Gallegillo 
+- Santiago vidal
 
 La App fue lleva a cabo en conjunto en donde ambos crearon models, formularios, vistas, editamos los temples de HTML, etc.
 
